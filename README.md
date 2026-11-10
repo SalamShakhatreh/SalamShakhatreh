@@ -7,6 +7,8 @@
   <strong>COMPUTER ENGINEERING GRADUATE</strong>
   <br/>
   <span>Full Stack MERN Developer</span>
+  <br/>
+  <a href="https://salam-shakhatreh-portfolio.netlify.app/">Portfolio</a>
 </p>
 
 <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=18&pause=1000&color=263D52&center=true&vCenter=true&width=500&lines=Building+Modern+Web+Applications;Turning+Ideas+Into+Code;Always+Learning+%26+Growing" />
@@ -21,10 +23,6 @@
 
 ---
 
-
----
-
-
 ## 🌟 About Me
 
 - 🎓 Computer Engineering Graduate.
@@ -33,14 +31,13 @@
 - 🌱 Continuously learning and improving my development skills.
 - 💡 Interested in turning ideas into practical solutions.
 
-- ---
+---
 
 ## 🛠️ Tech Stack
 
 <p align="center">
   <img src="https://skillicons.dev/icons?i=html,css,js,react,nodejs,express,mongodb,git,github,vscode,cpp,cs,python" />
 </p>
-
 
 ---
 
@@ -53,7 +50,7 @@ A full-stack web application that helps users explore destinations and plan trip
 **Technologies:** React, Node.js, Express.js, MongoDB.
 
 - 🔗 [View Source Code](https://github.com/SalamShakhatreh/Trip-planner)
-- 🌐 [Visit Live Website](https://bright-sundae-76bad1.netlify.app)
+- 🌐 [Visit Live Website](https://wanderly-trips.netlify.app/)
 
 ---
 
@@ -63,7 +60,6 @@ A full-stack web application that helps users explore destinations and plan trip
   <img src="https://github-stats-extended.vercel.app/api?username=SalamShakhatreh&show_icons=true&theme=tokyonight&hide_border=true" height="165" />
   <img src="https://github-stats-extended.vercel.app/api/top-langs/?username=SalamShakhatreh&layout=compact&theme=tokyonight&hide_border=true" height="165" />
 </p>
-
 
 ---
 
