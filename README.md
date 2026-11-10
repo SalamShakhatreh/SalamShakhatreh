@@ -8,7 +8,20 @@
   <br/>
   <span>Full Stack MERN Developer</span>
   <br/>
-  <a href="https://salam-shakhatreh-portfolio.netlify.app/">Portfolio</a>
+  <br/>
+<h3 align="center">✨ Discover My Projects, Skills & Journey</h3>
+<p align="center">
+  <a href="https://salam-shakhatreh-portfolio.netlify.app/">
+    <img src="https://img.shields.io/badge/Step_Into_My_Portfolio-8B5CF6?style=for-the-badge&labelColor=263D52" />
+  </a>
+</p>
+  </a>
+</p>
+  </a>
+</p>
+</a>
+</a>
+</a>
 </p>
 
 <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=18&pause=1000&color=263D52&center=true&vCenter=true&width=500&lines=Building+Modern+Web+Applications;Turning+Ideas+Into+Code;Always+Learning+%26+Growing" />
