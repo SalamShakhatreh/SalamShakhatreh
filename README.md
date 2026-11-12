@@ -10,7 +10,7 @@
 
 <br/>
 
-<a href="https://salam-shakhatreh-portfolio.netlify.app/">
+<a href="https://portfolio-3do.pages.dev">
   <img src="https://img.shields.io/badge/✦_EXPLORE_MY_PORTFOLIO-8B5CF6?style=for-the-badge" />
 </a>
 
@@ -71,7 +71,7 @@ A full-stack web application that helps users explore destinations and plan trip
 
 My personal portfolio showcasing my projects, skills, and development journey.
 
-<a href="https://salam-shakhatreh-portfolio.netlify.app/">
+<a href="https://portfolio-3do.pages.dev">
 <img src="https://img.shields.io/badge/VISIT_PORTFOLIO-8B5CF6?style=for-the-badge&logo=googlechrome&logoColor=white" />
 </a>
 
